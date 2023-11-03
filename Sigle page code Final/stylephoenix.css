@@ -1,0 +1,493 @@
+@import url('https://fonts.cdnfonts.com/css/outfit');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+      
+
+}
+header,footer,main{
+    overflow: hidden;
+}
+.mainflex{
+     display: flex; 
+    justify-content:space-between ;
+    background-color: white;
+    margin-left: 20px;
+
+}
+
+img.imggroup {
+    margin-left: 40px;
+    margin-top: 17px;
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+li{
+    justify-content: space-between;
+    padding-left: 50px;
+    list-style: none;
+    color: rgb(117, 115, 115);
+    font-weight: bold;
+    margin-top: 17px;
+    
+}
+.fontfamily{
+    
+    font-family: 'Outfit', sans-serif;
+}
+.phone{
+    margin-bottom: 10px;
+    width:20px;
+    height:20px;
+    justify-content: space-between;
+    padding-left: 10px;
+    margin-right: 15px;
+    margin-top: 2px;
+}
+ .phonenum{
+    padding-left: 0px;
+    position: relative;
+    right:15px;
+    margin-top: 2s5px;
+    
+} 
+.maindivbanner{
+    background-color: rgb(233,110,66);
+    width:200%;
+    height:600px;
+    position:relative;
+    top:5px;
+    left:0%;
+    display: flex;
+   
+}
+.subdivone{
+    color:white;
+    font-weight: bold;
+    
+}
+.exceptional{
+    color:white;
+    font-size: 65px;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 75px;
+    margin-top: 80px;
+}
+.paralorem{
+    color:#f6c5b3;
+    margin-top: 35px;
+    margin-left: 75px;
+}
+.knowmore{
+    margin-top:70px;
+    margin-left:75px;
+    text-decoration: underline;
+}
+.pulse{
+    margin-top:75px;
+    margin-left:75px;
+}
+div.subdivbanner{
+    margin-top: 84px;
+    position: relative;
+    right:17%;}
+.maindiv{
+    
+    display: flex;
+}
+.subdiv{
+    color:black;
+    margin-left: 75px;
+}
+.weare{
+    font-family: 'Outfit', sans-serif;
+    padding-top: 50px;
+    width:180%;
+    font-size: 40px;
+}
+.orthopodics{
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    padding-top: 90px;
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    right: 265px;
+
+}
+.plusone{
+    position: relative;
+    left: 145%;
+    top: 10px;
+
+}
+.plustwo{
+    position: relative;
+    left: 158%;
+    top: 10px;
+
+}.plusthree{
+    position: relative;
+    left: 158%;
+    top: 10px;
+
+}.plusfour{
+    position: relative;
+    left: 147%;
+    top: 10px;
+
+}
+.pediatrices{
+    font-weight: bold;
+    padding-top: 60px;
+    font-size: 30px;
+    font-family: 'Outfit', sans-serif;
+    position: relative;
+    top: 80px;
+    right: 265px;
+}
+.lorem{
+    width:190%;
+    padding-top:45px;
+    font-family: 'Outfit', sans-serif;
+    position: relative;
+    top: 80px;
+    right: 265px;
+}
+.neurology{
+    padding-top: 60px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    right: 265px;
+}
+.dermatology{
+    font-family: 'Outfit', sans-serif;
+    padding-top: 60px;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: 80px;
+    right: 265px;
+}
+.subdivtwo{
+
+width:100%;
+
+
+}
+.doctorimg{
+    height:600px;
+    width:600px;
+    padding-top: 60px;
+    padding-left: 150px;
+}
+.maindivthree{
+    background-color: #ecf5f6;
+    width:90%;
+    height:350px;
+    margin-top: 60px;
+    margin-left: 70px;
+    display: flex;
+}
+.divknown{
+    background-color: #ecf5f6;
+    margin-top: 80px;
+}
+h1.knownfor{
+     text-align: center; 
+    font-size: 40px;
+    margin-left: 37%;
+    margin-top: 40px;
+    padding-top: 40px;
+    width:340px;
+    /* background-color: #ecf5f6; */
+    font-family: 'Outfit', sans-serif;
+}
+
+.imgone{
+    position: relative;
+    top:160px;
+    right:660px;
+    width:70px;
+    height:80px;
+}
+.excellenttreatment{
+    position: relative;
+    top:180px;
+    right:720px;
+    width:210px;
+    font-size:20px;
+    font-family: 'Outfit', sans-serif;
+    
+
+}
+.imgtwo{
+    position: relative;
+    top:160px;
+    right:425px;
+    width:70px;
+    height:80px;
+}
+.quality,.personalized,.excellent{
+    font-family: 'Outfit', sans-serif;
+}
+.qualityservice{
+    position: relative;
+    top:180px;
+    right:460px;
+    width:200px;
+   font-size:20px;
+   font-family: 'Outfit', sans-serif;
+}
+.imgthree{
+    position: relative;
+    top:160px;
+    right:190px;
+    width:70px;
+    height:80px;
+}
+.personalizedcare{
+    position: relative;
+    top:180px;
+    right:210px;
+    width:250px;
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+
+}
+.patientfriendly{
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 100px;
+    position: relative;
+    top:70px;
+}
+.maindivdoctors{
+    display: flex;
+    margin-top: 50px;
+}
+.doctoroneimg{
+    width:350px;
+    height:550px;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.doctortwoimg{
+    width:350px;
+    height:550px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.doctorthreeimg{
+    width:350px;
+    height:550px;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+img.imggroupone{
+margin-left: 40px;
+margin-top: 90px;
+background-color:#ecf5f6 ;
+width:94.3%;
+height:600px;
+}
+.maindivarticle{
+    display: flex;
+}
+
+.blogtwo{
+margin-left: 340px;
+margin-top: 40px;
+}
+.checkout{
+    margin-left: 45px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.blogone{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.blogtwo{
+    margin-left: 360px;
+}
+.blogcontent{
+position: relative;
+left:355px;
+bottom:400px;
+font-family:'Outfit', sans-serif;
+
+}
+.paracontent{
+    position: relative;
+    left:355px;
+    bottom:380px;
+    font-family:'Outfit', sans-serif;
+    font-size: 19px;
+}
+.blogcontentone{
+    position: relative;
+    font-family:'Outfit', sans-serif;
+    left:680px;
+    bottom:400px;
+    }
+    .paracontentone{
+        position: relative;
+       font-size: 19px;
+        left:680px;
+        bottom:380px;
+        font-family:'Outfit', sans-serif;
+        }
+        .maindivisionone{
+            background-color: #ecf5f6;
+            width:100%;
+            height:60%;
+            display: flex;
+            justify-content: center;
+
+        }
+        .subdivisionone{
+            /* background-color: black; */
+            /* color: white; */
+            height: 300px;
+            width:30%;
+        }
+        .subdivisiontwo{
+            /* background-color:green; */
+            height: 300px;
+            width:30%;
+
+        }
+        .subdivisionthree{
+            /* background-color: pink; */
+            height: 300px;
+            width:30%;
+
+        }
+        .medal,.patient,.healthcare{
+            margin-top: 15%;
+            margin-left: 35%;
+        }
+        .quality{
+            margin-top: 5%;
+          margin-left: 25%;
+        }
+        .excellent{
+            margin-top: 5%;
+            margin-left: 25%;
+
+        }
+        .personalized{
+            margin-top: 5%;
+            margin-left: 25%;
+
+        }
+        div.maskgroup{
+            margin-top:0px;
+            height:550px;
+            width:100%;
+        }
+        img.imagemaskgroup{
+           position:relative;
+           top:-160px;
+           width:100%;
+           height:650px;
+        }
+        div.footermaindiv{
+            position: relative;
+            top:20px ;
+            background-color: #fbcbcb;
+            width:100%;
+            height:300px;
+            
+        }
+        div.footermaindiv{
+           display: flex;
+           justify-content: space-around;
+          
+        }
+        div.footersubdivone{
+        position: relative;
+        top:32%;
+        left:2%;
+        width:80px;
+        height:80px;
+        }
+         
+        div.footersubdivtwo{
+            margin-top:40px;
+            margin-right: 2%;
+        }
+        img.socialmedia{
+            margin-top: 25px;
+        }li.socialicons{
+            position: relative;
+            
+            bottom:139px;
+            right: 5px;
+            padding:2px 0px 10px 38px;
+            font-family:'Outfit', sans-serif;
+        }
+        
+        
+        div.footersubdivthree{
+            margin-top:40px;
+        }
+        .links{
+            position: relative;
+            right: 46px;
+            top: 8px;
+            font-family:'Outfit', sans-serif;
+            padding: 2px 1px 20px 0px;
+        }
+        .Quick{
+        
+        }
+        div.footersubdivfour{
+            margin-top:40px;
+            margin-right:40px;
+        }
+        .get{
+            position: relative;
+            right: 2px;
+            bottom: 50px;
+            left: 17px;
+            padding: 0px 2px 5px 1px;
+            font-family:'Outfit', sans-serif;
+        }
+        .getMaj{
+           position: relative;
+           bottom: 40px;
+           right: 29px;
+            font-family:'Outfit', sans-serif;
+            font-size: 15pxs;
+        }
+        .getin{
+            
+            position: relative;
+            left: 1px;
+            top: 35px;
+            font-family:'Outfit', sans-serif;
+        }
+        h3{
+            font-size: 30px;
+            font-family:'Outfit', sans-serif;
+        }
+        p.copyright{
+            color:black;
+            position: relative;
+            top:20px;
+            bottom:30px;
+            padding-bottom: 20px;
+            text-align: center;
+            font-family:'Outfit', sans-serif;
+            font-weight: bold;
+        }
